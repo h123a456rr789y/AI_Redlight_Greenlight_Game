@@ -1,5 +1,5 @@
 # ignore huge model
 /Object-Detection-and-Tracking/OneStage/yolo/deep_sort_yolov4/model_data/yolo4_weight.h5
-Object-Detection-and-Tracking/OneStage/yolo/deep_sort_yolov4/model_data/yolov4.weights
+/Object-Detection-and-Tracking/OneStage/yolo/deep_sort_yolov4/model_data/yolov4.weights
 
 
